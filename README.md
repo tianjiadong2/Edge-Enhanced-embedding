@@ -1,4 +1,4 @@
-code for "Edge-Enhanced embedding for node classification on imbalanced graph data"  
+code for "ENE-GCN: imbalanced graph node classification method based on edge and node enhancement" 
   
 Python                     3.7.3  
 numpy                      1.21.6  
